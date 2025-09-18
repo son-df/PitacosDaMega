@@ -1,6 +1,6 @@
 # Pitacos da Mega
 
-Este projeto é um aplicativo React Native para sorteio de números da Mega-Sena.
+Pitacos da Mega é um aplicativo simples, desenvolvido em React Native, que funciona como um gerador de números para a Mega-Sena. É a ferramenta ideal para quem busca inspiração ou uma ajudinha da sorte na hora de montar suas apostas.
 
 ## Como usar
 
